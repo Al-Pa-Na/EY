@@ -21,7 +21,7 @@ export default function ChatPage() {
       id: "welcome",
       role: "assistant",
       content:
-        "Hi! I’m your loan assistant. I can help you with eligibility, verification and underwriting. How would you like to start?",
+        "Hi, I’m your Tata Capital AI Loan Expert. I will guide you step-by-step. To begin, what loan amount are you looking for?",
       createdAt: Date.now(),
     },
   ]);
